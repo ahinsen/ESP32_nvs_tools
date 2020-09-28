@@ -1,4 +1,4 @@
-#include <nvs.h>
+#include <nvs.h> // Under development:DEV1
 
 #define NS "localLog"
 const char * _nvs_errors[13] = { "OTHER", "NOT_INITIALIZED", "NOT_FOUND", "TYPE_MISMATCH", "READ_ONLY", "NOT_ENOUGH_SPACE", "INVALID_NAME", "INVALID_HANDLE", "REMOVE_FAILED", "KEY_TOO_LONG", "PAGE_FULL", "INVALID_STATE", "INVALID_LENGHT"};
